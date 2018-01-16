@@ -2,6 +2,8 @@
 
 ### 学习开源项目smart4j，并添加部分修改部分功能的实现
 
+### smart4j地址：https://gitee.com/huangyong/smart-framework
+
 ### 该框架可用于快速开发，包含如下特性
 - 基于COC原则，本框架采用注解方式进行配置
 - 基于IOC思想实现核心容器用于管理应用Bean生命周期以及DI
